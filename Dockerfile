@@ -1,5 +1,5 @@
 FROM openjdk
-MAINTAINER Harshit Nigam nightmarenightem@gmail.com
+MAINTAINER Naman Agarwal agarwalnaman35@gmail.com
 WORKDIR ./
 COPY target/*.jar /
 EXPOSE 8080
